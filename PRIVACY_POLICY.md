@@ -200,6 +200,12 @@ Total liability for any claim arising out of or relating to the app shall not ex
 
 Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages, so the above limitations or exclusions may not apply to you. In those jurisdictions, the developer's liability is limited to the greatest extent permitted by law.
 
+## Healthkit notes
+
+(Unchanged from v7.6. No new data types collected. No new SDKs. No new tracking. Re-confirm the existing answers when re-submitting — App Store Connect carries them over automatically for minor updates.)
+
+The Watch app's HealthKit-read scope (heart rate, HRV, active energy) and HealthKit-write scope (workouts, active energy) are already declared on the existing privacy questionnaire under Health & Fitness — collected, not linked, not used for tracking. No update needed.
+
 ## Governing Law
 
 This Privacy Policy and your use of TDLidar are governed by the laws of the developer's country of residence, without regard to its conflict-of-law principles. Any dispute arising under this Privacy Policy that is not resolved through Apple's standard App Store dispute process shall be brought in the courts of that jurisdiction.
